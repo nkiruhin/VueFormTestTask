@@ -148,10 +148,10 @@ export const AddModal = Vue.extend({
   data () {
     return {
       selectOptions: [
-        'C',
-        'C++',
+        'Swift',
         'Java',
         'PHP',
+        'Rust',
         'JavaScript',
         'Pyton',
         'Ruby',
