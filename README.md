@@ -164,7 +164,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Nikolay Kirukhin  - nkiruhin@yandex.ru
 
-Project Link: [https://github.com/nkiruhin/SalaryCalculatorReact](https://github.com/nkiruhin/PWApp)
+Project Link: [https://github.com/nkiruhin/VueFormTestTask](https://github.com/nkiruhin/VueFormTestTask)
 
 
 
